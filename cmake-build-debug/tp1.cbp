@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tp1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/egor/CLionProjects/tp1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/egor/CLionProjects/tp1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/egor/CLionProjects/tp1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp1">
+				<Option output="/home/egor/CLionProjects/tp1/cmake-build-debug/tp1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/egor/CLionProjects/tp1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp1/fast">
+				<Option output="/home/egor/CLionProjects/tp1/cmake-build-debug/tp1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/egor/CLionProjects/tp1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/egor/CLionProjects/tp1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/egor/CLionProjects/tp1/Archer.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Archer.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Army.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Army.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/ArmyFactory.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/ArmyFactory.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Decorator.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Decorator.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/HumanArmyFactory.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/HumanArmyFactory.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Knight.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Knight.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Mage.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Mage.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Menu.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Menu.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Player.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Player.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Ranger.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Ranger.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UndeadArmyFactory.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UndeadArmyFactory.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Unit.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Unit.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Warrior.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Warrior.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Wizard.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Wizard.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/defines.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/defines.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/main.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

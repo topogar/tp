@@ -8,12 +8,11 @@
 
 class Army {
 public:
-    Army(): Warriors(0), Mages(0), Rangers(0) {
-
-    }
+    Army(): Warriors(0), Mages(0), Rangers(0) {}
     vector<Warrior*> Warriors;
     vector<Mage*> Mages;
     vector<Ranger*> Rangers;
+    vector<vector<Unit*>*> units;
     void info();
     ~Army();
 };

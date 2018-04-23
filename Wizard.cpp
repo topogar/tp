@@ -8,3 +8,11 @@ Wizard::Wizard() {
     initiative = 0;
     element = "Air";
 }
+
+void Wizard::FriendlyAction(Unit* unit) {
+    unit->health += attack;
+}
+
+void Wizard::EnemyAction(Unit *unit) {
+    unit->health -= attack;
+}
