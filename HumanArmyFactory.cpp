@@ -7,6 +7,9 @@ HumanArmyFactory::HumanArmyFactory() {
     FractionOverview.push_back(make_pair("Warriors", Warriors));
     FractionOverview.push_back(make_pair("Mages", Mages));
     FractionOverview.push_back(make_pair("Rangers", Rangers));
+    war_id = { make_pair(Knight::ID, KNIGHT_COST)};
+    m_id = {make_pair(Wizard::ID, WIZARD_COST)};
+    r_id = {make_pair(Archer::ID, ARCHER_COST)};
 }
 
 Warrior* HumanArmyFactory::createWarrior(int ID) {

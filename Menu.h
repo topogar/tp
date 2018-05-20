@@ -1,6 +1,7 @@
 #include "HumanArmyFactory.h"
 #include "UndeadArmyFactory.h"
 #include "Army.h"
+#include "AddFirstUnit.h"
 
 
 #ifndef TP1_MENU_H

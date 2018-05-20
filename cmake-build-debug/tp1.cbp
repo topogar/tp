@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/egor/CLionProjects/tp1/AddFirstUnit.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/AddFirstUnit.h">
+			<Option target="tp1"/>
+		</Unit>
 		<Unit filename="/home/egor/CLionProjects/tp1/Archer.cpp">
 			<Option target="tp1"/>
 		</Unit>
@@ -108,10 +114,22 @@
 		<Unit filename="/home/egor/CLionProjects/tp1/Decorator.h">
 			<Option target="tp1"/>
 		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Game.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Game.h">
+			<Option target="tp1"/>
+		</Unit>
 		<Unit filename="/home/egor/CLionProjects/tp1/HumanArmyFactory.cpp">
 			<Option target="tp1"/>
 		</Unit>
 		<Unit filename="/home/egor/CLionProjects/tp1/HumanArmyFactory.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Judje.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/Judje.h">
 			<Option target="tp1"/>
 		</Unit>
 		<Unit filename="/home/egor/CLionProjects/tp1/Knight.cpp">
@@ -142,6 +160,24 @@
 			<Option target="tp1"/>
 		</Unit>
 		<Unit filename="/home/egor/CLionProjects/tp1/Ranger.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UnArcher.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UnArcher.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UnKnight.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UnKnight.h">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UnWizard.cpp">
+			<Option target="tp1"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/tp1/UnWizard.h">
 			<Option target="tp1"/>
 		</Unit>
 		<Unit filename="/home/egor/CLionProjects/tp1/UndeadArmyFactory.cpp">

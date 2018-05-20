@@ -123,6 +123,33 @@ tp1/fast:
 	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/build
 .PHONY : tp1/fast
 
+AddFirstUnit.o: AddFirstUnit.cpp.o
+
+.PHONY : AddFirstUnit.o
+
+# target to build an object file
+AddFirstUnit.cpp.o:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/AddFirstUnit.cpp.o
+.PHONY : AddFirstUnit.cpp.o
+
+AddFirstUnit.i: AddFirstUnit.cpp.i
+
+.PHONY : AddFirstUnit.i
+
+# target to preprocess a source file
+AddFirstUnit.cpp.i:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/AddFirstUnit.cpp.i
+.PHONY : AddFirstUnit.cpp.i
+
+AddFirstUnit.s: AddFirstUnit.cpp.s
+
+.PHONY : AddFirstUnit.s
+
+# target to generate assembly for a file
+AddFirstUnit.cpp.s:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/AddFirstUnit.cpp.s
+.PHONY : AddFirstUnit.cpp.s
+
 Archer.o: Archer.cpp.o
 
 .PHONY : Archer.o
@@ -231,6 +258,33 @@ Decorator.cpp.s:
 	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Decorator.cpp.s
 .PHONY : Decorator.cpp.s
 
+Game.o: Game.cpp.o
+
+.PHONY : Game.o
+
+# target to build an object file
+Game.cpp.o:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Game.cpp.o
+.PHONY : Game.cpp.o
+
+Game.i: Game.cpp.i
+
+.PHONY : Game.i
+
+# target to preprocess a source file
+Game.cpp.i:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Game.cpp.i
+.PHONY : Game.cpp.i
+
+Game.s: Game.cpp.s
+
+.PHONY : Game.s
+
+# target to generate assembly for a file
+Game.cpp.s:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Game.cpp.s
+.PHONY : Game.cpp.s
+
 HumanArmyFactory.o: HumanArmyFactory.cpp.o
 
 .PHONY : HumanArmyFactory.o
@@ -257,6 +311,33 @@ HumanArmyFactory.s: HumanArmyFactory.cpp.s
 HumanArmyFactory.cpp.s:
 	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/HumanArmyFactory.cpp.s
 .PHONY : HumanArmyFactory.cpp.s
+
+Judje.o: Judje.cpp.o
+
+.PHONY : Judje.o
+
+# target to build an object file
+Judje.cpp.o:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Judje.cpp.o
+.PHONY : Judje.cpp.o
+
+Judje.i: Judje.cpp.i
+
+.PHONY : Judje.i
+
+# target to preprocess a source file
+Judje.cpp.i:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Judje.cpp.i
+.PHONY : Judje.cpp.i
+
+Judje.s: Judje.cpp.s
+
+.PHONY : Judje.s
+
+# target to generate assembly for a file
+Judje.cpp.s:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Judje.cpp.s
+.PHONY : Judje.cpp.s
 
 Knight.o: Knight.cpp.o
 
@@ -392,6 +473,87 @@ Ranger.s: Ranger.cpp.s
 Ranger.cpp.s:
 	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Ranger.cpp.s
 .PHONY : Ranger.cpp.s
+
+UnArcher.o: UnArcher.cpp.o
+
+.PHONY : UnArcher.o
+
+# target to build an object file
+UnArcher.cpp.o:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnArcher.cpp.o
+.PHONY : UnArcher.cpp.o
+
+UnArcher.i: UnArcher.cpp.i
+
+.PHONY : UnArcher.i
+
+# target to preprocess a source file
+UnArcher.cpp.i:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnArcher.cpp.i
+.PHONY : UnArcher.cpp.i
+
+UnArcher.s: UnArcher.cpp.s
+
+.PHONY : UnArcher.s
+
+# target to generate assembly for a file
+UnArcher.cpp.s:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnArcher.cpp.s
+.PHONY : UnArcher.cpp.s
+
+UnKnight.o: UnKnight.cpp.o
+
+.PHONY : UnKnight.o
+
+# target to build an object file
+UnKnight.cpp.o:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnKnight.cpp.o
+.PHONY : UnKnight.cpp.o
+
+UnKnight.i: UnKnight.cpp.i
+
+.PHONY : UnKnight.i
+
+# target to preprocess a source file
+UnKnight.cpp.i:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnKnight.cpp.i
+.PHONY : UnKnight.cpp.i
+
+UnKnight.s: UnKnight.cpp.s
+
+.PHONY : UnKnight.s
+
+# target to generate assembly for a file
+UnKnight.cpp.s:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnKnight.cpp.s
+.PHONY : UnKnight.cpp.s
+
+UnWizard.o: UnWizard.cpp.o
+
+.PHONY : UnWizard.o
+
+# target to build an object file
+UnWizard.cpp.o:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnWizard.cpp.o
+.PHONY : UnWizard.cpp.o
+
+UnWizard.i: UnWizard.cpp.i
+
+.PHONY : UnWizard.i
+
+# target to preprocess a source file
+UnWizard.cpp.i:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnWizard.cpp.i
+.PHONY : UnWizard.cpp.i
+
+UnWizard.s: UnWizard.cpp.s
+
+.PHONY : UnWizard.s
+
+# target to generate assembly for a file
+UnWizard.cpp.s:
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnWizard.cpp.s
+.PHONY : UnWizard.cpp.s
 
 UndeadArmyFactory.o: UndeadArmyFactory.cpp.o
 
@@ -564,6 +726,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... tp1"
+	@echo "... AddFirstUnit.o"
+	@echo "... AddFirstUnit.i"
+	@echo "... AddFirstUnit.s"
 	@echo "... Archer.o"
 	@echo "... Archer.i"
 	@echo "... Archer.s"
@@ -576,9 +741,15 @@ help:
 	@echo "... Decorator.o"
 	@echo "... Decorator.i"
 	@echo "... Decorator.s"
+	@echo "... Game.o"
+	@echo "... Game.i"
+	@echo "... Game.s"
 	@echo "... HumanArmyFactory.o"
 	@echo "... HumanArmyFactory.i"
 	@echo "... HumanArmyFactory.s"
+	@echo "... Judje.o"
+	@echo "... Judje.i"
+	@echo "... Judje.s"
 	@echo "... Knight.o"
 	@echo "... Knight.i"
 	@echo "... Knight.s"
@@ -594,6 +765,15 @@ help:
 	@echo "... Ranger.o"
 	@echo "... Ranger.i"
 	@echo "... Ranger.s"
+	@echo "... UnArcher.o"
+	@echo "... UnArcher.i"
+	@echo "... UnArcher.s"
+	@echo "... UnKnight.o"
+	@echo "... UnKnight.i"
+	@echo "... UnKnight.s"
+	@echo "... UnWizard.o"
+	@echo "... UnWizard.i"
+	@echo "... UnWizard.s"
 	@echo "... UndeadArmyFactory.o"
 	@echo "... UndeadArmyFactory.i"
 	@echo "... UndeadArmyFactory.s"

@@ -2,10 +2,10 @@
 
 Wizard::Wizard() {
     name = "Wizard";
-    attack = 0;
+    attack = 14;
     defense = 0;
-    health = 0;
-    initiative = 0;
+    health = 20;
+    initiative = 5;
     element = "Air";
 }
 

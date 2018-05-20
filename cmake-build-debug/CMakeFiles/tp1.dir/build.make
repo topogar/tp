@@ -441,6 +441,150 @@ CMakeFiles/tp1.dir/Decorator.cpp.o.provides: CMakeFiles/tp1.dir/Decorator.cpp.o.
 CMakeFiles/tp1.dir/Decorator.cpp.o.provides.build: CMakeFiles/tp1.dir/Decorator.cpp.o
 
 
+CMakeFiles/tp1.dir/UnArcher.cpp.o: CMakeFiles/tp1.dir/flags.make
+CMakeFiles/tp1.dir/UnArcher.cpp.o: ../UnArcher.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/tp1.dir/UnArcher.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tp1.dir/UnArcher.cpp.o -c /home/egor/CLionProjects/tp1/UnArcher.cpp
+
+CMakeFiles/tp1.dir/UnArcher.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1.dir/UnArcher.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/egor/CLionProjects/tp1/UnArcher.cpp > CMakeFiles/tp1.dir/UnArcher.cpp.i
+
+CMakeFiles/tp1.dir/UnArcher.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1.dir/UnArcher.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/egor/CLionProjects/tp1/UnArcher.cpp -o CMakeFiles/tp1.dir/UnArcher.cpp.s
+
+CMakeFiles/tp1.dir/UnArcher.cpp.o.requires:
+
+.PHONY : CMakeFiles/tp1.dir/UnArcher.cpp.o.requires
+
+CMakeFiles/tp1.dir/UnArcher.cpp.o.provides: CMakeFiles/tp1.dir/UnArcher.cpp.o.requires
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnArcher.cpp.o.provides.build
+.PHONY : CMakeFiles/tp1.dir/UnArcher.cpp.o.provides
+
+CMakeFiles/tp1.dir/UnArcher.cpp.o.provides.build: CMakeFiles/tp1.dir/UnArcher.cpp.o
+
+
+CMakeFiles/tp1.dir/UnWizard.cpp.o: CMakeFiles/tp1.dir/flags.make
+CMakeFiles/tp1.dir/UnWizard.cpp.o: ../UnWizard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/tp1.dir/UnWizard.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tp1.dir/UnWizard.cpp.o -c /home/egor/CLionProjects/tp1/UnWizard.cpp
+
+CMakeFiles/tp1.dir/UnWizard.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1.dir/UnWizard.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/egor/CLionProjects/tp1/UnWizard.cpp > CMakeFiles/tp1.dir/UnWizard.cpp.i
+
+CMakeFiles/tp1.dir/UnWizard.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1.dir/UnWizard.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/egor/CLionProjects/tp1/UnWizard.cpp -o CMakeFiles/tp1.dir/UnWizard.cpp.s
+
+CMakeFiles/tp1.dir/UnWizard.cpp.o.requires:
+
+.PHONY : CMakeFiles/tp1.dir/UnWizard.cpp.o.requires
+
+CMakeFiles/tp1.dir/UnWizard.cpp.o.provides: CMakeFiles/tp1.dir/UnWizard.cpp.o.requires
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnWizard.cpp.o.provides.build
+.PHONY : CMakeFiles/tp1.dir/UnWizard.cpp.o.provides
+
+CMakeFiles/tp1.dir/UnWizard.cpp.o.provides.build: CMakeFiles/tp1.dir/UnWizard.cpp.o
+
+
+CMakeFiles/tp1.dir/UnKnight.cpp.o: CMakeFiles/tp1.dir/flags.make
+CMakeFiles/tp1.dir/UnKnight.cpp.o: ../UnKnight.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/tp1.dir/UnKnight.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tp1.dir/UnKnight.cpp.o -c /home/egor/CLionProjects/tp1/UnKnight.cpp
+
+CMakeFiles/tp1.dir/UnKnight.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1.dir/UnKnight.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/egor/CLionProjects/tp1/UnKnight.cpp > CMakeFiles/tp1.dir/UnKnight.cpp.i
+
+CMakeFiles/tp1.dir/UnKnight.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1.dir/UnKnight.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/egor/CLionProjects/tp1/UnKnight.cpp -o CMakeFiles/tp1.dir/UnKnight.cpp.s
+
+CMakeFiles/tp1.dir/UnKnight.cpp.o.requires:
+
+.PHONY : CMakeFiles/tp1.dir/UnKnight.cpp.o.requires
+
+CMakeFiles/tp1.dir/UnKnight.cpp.o.provides: CMakeFiles/tp1.dir/UnKnight.cpp.o.requires
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/UnKnight.cpp.o.provides.build
+.PHONY : CMakeFiles/tp1.dir/UnKnight.cpp.o.provides
+
+CMakeFiles/tp1.dir/UnKnight.cpp.o.provides.build: CMakeFiles/tp1.dir/UnKnight.cpp.o
+
+
+CMakeFiles/tp1.dir/AddFirstUnit.cpp.o: CMakeFiles/tp1.dir/flags.make
+CMakeFiles/tp1.dir/AddFirstUnit.cpp.o: ../AddFirstUnit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/tp1.dir/AddFirstUnit.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tp1.dir/AddFirstUnit.cpp.o -c /home/egor/CLionProjects/tp1/AddFirstUnit.cpp
+
+CMakeFiles/tp1.dir/AddFirstUnit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1.dir/AddFirstUnit.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/egor/CLionProjects/tp1/AddFirstUnit.cpp > CMakeFiles/tp1.dir/AddFirstUnit.cpp.i
+
+CMakeFiles/tp1.dir/AddFirstUnit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1.dir/AddFirstUnit.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/egor/CLionProjects/tp1/AddFirstUnit.cpp -o CMakeFiles/tp1.dir/AddFirstUnit.cpp.s
+
+CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.requires:
+
+.PHONY : CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.requires
+
+CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.provides: CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.requires
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.provides.build
+.PHONY : CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.provides
+
+CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.provides.build: CMakeFiles/tp1.dir/AddFirstUnit.cpp.o
+
+
+CMakeFiles/tp1.dir/Game.cpp.o: CMakeFiles/tp1.dir/flags.make
+CMakeFiles/tp1.dir/Game.cpp.o: ../Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/tp1.dir/Game.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tp1.dir/Game.cpp.o -c /home/egor/CLionProjects/tp1/Game.cpp
+
+CMakeFiles/tp1.dir/Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1.dir/Game.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/egor/CLionProjects/tp1/Game.cpp > CMakeFiles/tp1.dir/Game.cpp.i
+
+CMakeFiles/tp1.dir/Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1.dir/Game.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/egor/CLionProjects/tp1/Game.cpp -o CMakeFiles/tp1.dir/Game.cpp.s
+
+CMakeFiles/tp1.dir/Game.cpp.o.requires:
+
+.PHONY : CMakeFiles/tp1.dir/Game.cpp.o.requires
+
+CMakeFiles/tp1.dir/Game.cpp.o.provides: CMakeFiles/tp1.dir/Game.cpp.o.requires
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Game.cpp.o.provides.build
+.PHONY : CMakeFiles/tp1.dir/Game.cpp.o.provides
+
+CMakeFiles/tp1.dir/Game.cpp.o.provides.build: CMakeFiles/tp1.dir/Game.cpp.o
+
+
+CMakeFiles/tp1.dir/Judje.cpp.o: CMakeFiles/tp1.dir/flags.make
+CMakeFiles/tp1.dir/Judje.cpp.o: ../Judje.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/tp1.dir/Judje.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tp1.dir/Judje.cpp.o -c /home/egor/CLionProjects/tp1/Judje.cpp
+
+CMakeFiles/tp1.dir/Judje.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tp1.dir/Judje.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/egor/CLionProjects/tp1/Judje.cpp > CMakeFiles/tp1.dir/Judje.cpp.i
+
+CMakeFiles/tp1.dir/Judje.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tp1.dir/Judje.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/egor/CLionProjects/tp1/Judje.cpp -o CMakeFiles/tp1.dir/Judje.cpp.s
+
+CMakeFiles/tp1.dir/Judje.cpp.o.requires:
+
+.PHONY : CMakeFiles/tp1.dir/Judje.cpp.o.requires
+
+CMakeFiles/tp1.dir/Judje.cpp.o.provides: CMakeFiles/tp1.dir/Judje.cpp.o.requires
+	$(MAKE) -f CMakeFiles/tp1.dir/build.make CMakeFiles/tp1.dir/Judje.cpp.o.provides.build
+.PHONY : CMakeFiles/tp1.dir/Judje.cpp.o.provides
+
+CMakeFiles/tp1.dir/Judje.cpp.o.provides.build: CMakeFiles/tp1.dir/Judje.cpp.o
+
+
 # Object files for target tp1
 tp1_OBJECTS = \
 "CMakeFiles/tp1.dir/main.cpp.o" \
@@ -458,7 +602,13 @@ tp1_OBJECTS = \
 "CMakeFiles/tp1.dir/Menu.cpp.o" \
 "CMakeFiles/tp1.dir/Player.cpp.o" \
 "CMakeFiles/tp1.dir/defines.cpp.o" \
-"CMakeFiles/tp1.dir/Decorator.cpp.o"
+"CMakeFiles/tp1.dir/Decorator.cpp.o" \
+"CMakeFiles/tp1.dir/UnArcher.cpp.o" \
+"CMakeFiles/tp1.dir/UnWizard.cpp.o" \
+"CMakeFiles/tp1.dir/UnKnight.cpp.o" \
+"CMakeFiles/tp1.dir/AddFirstUnit.cpp.o" \
+"CMakeFiles/tp1.dir/Game.cpp.o" \
+"CMakeFiles/tp1.dir/Judje.cpp.o"
 
 # External object files for target tp1
 tp1_EXTERNAL_OBJECTS =
@@ -479,9 +629,15 @@ tp1: CMakeFiles/tp1.dir/Menu.cpp.o
 tp1: CMakeFiles/tp1.dir/Player.cpp.o
 tp1: CMakeFiles/tp1.dir/defines.cpp.o
 tp1: CMakeFiles/tp1.dir/Decorator.cpp.o
+tp1: CMakeFiles/tp1.dir/UnArcher.cpp.o
+tp1: CMakeFiles/tp1.dir/UnWizard.cpp.o
+tp1: CMakeFiles/tp1.dir/UnKnight.cpp.o
+tp1: CMakeFiles/tp1.dir/AddFirstUnit.cpp.o
+tp1: CMakeFiles/tp1.dir/Game.cpp.o
+tp1: CMakeFiles/tp1.dir/Judje.cpp.o
 tp1: CMakeFiles/tp1.dir/build.make
 tp1: CMakeFiles/tp1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable tp1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/egor/CLionProjects/tp1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable tp1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/tp1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -505,6 +661,12 @@ CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/Menu.cpp.o.requires
 CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/Player.cpp.o.requires
 CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/defines.cpp.o.requires
 CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/Decorator.cpp.o.requires
+CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/UnArcher.cpp.o.requires
+CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/UnWizard.cpp.o.requires
+CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/UnKnight.cpp.o.requires
+CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/AddFirstUnit.cpp.o.requires
+CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/Game.cpp.o.requires
+CMakeFiles/tp1.dir/requires: CMakeFiles/tp1.dir/Judje.cpp.o.requires
 
 .PHONY : CMakeFiles/tp1.dir/requires
 

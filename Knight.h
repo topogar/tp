@@ -1,6 +1,6 @@
 #include "Warrior.h"
 #include "defines.h"
-#import "Army.h"
+#include "Army.h"
 
 #ifndef TP1_KNIGHT_H
 #define TP1_KNIGHT_H
@@ -12,8 +12,8 @@ public:
     const static int cost = KNIGHT_COST;
     Knight();
     ~Knight() {};
-    void FriendlyAction(Unit* unit) {};
-    void EnemyAction(Unit* unit) {};
+    void FriendlyAction(Unit* unit);
+    void EnemyAction(Unit* unit);
 };
 
 

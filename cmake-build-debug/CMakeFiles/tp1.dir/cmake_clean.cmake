@@ -15,6 +15,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/tp1.dir/Player.cpp.o"
   "CMakeFiles/tp1.dir/defines.cpp.o"
   "CMakeFiles/tp1.dir/Decorator.cpp.o"
+  "CMakeFiles/tp1.dir/UnArcher.cpp.o"
+  "CMakeFiles/tp1.dir/UnWizard.cpp.o"
+  "CMakeFiles/tp1.dir/UnKnight.cpp.o"
+  "CMakeFiles/tp1.dir/AddFirstUnit.cpp.o"
+  "CMakeFiles/tp1.dir/Game.cpp.o"
+  "CMakeFiles/tp1.dir/Judje.cpp.o"
   "tp1.pdb"
   "tp1"
 )

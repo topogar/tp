@@ -10,7 +10,7 @@ public:
     RegenDecorator(Unit* unit_) {
         unit__ = unit_;
     }
-    void FriendlyAction(Unit* unit) {};
+    void FriendlyAction(Unit* unit);
 };
 
 

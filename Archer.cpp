@@ -2,8 +2,16 @@
 
 Archer::Archer() {
     name = "Archer";
-    attack = 0;
-    defense = 0;
-    health = 0;
-    initiative = 0;
+    attack = 10;
+    defense = 2;
+    health = 25;
+    initiative = 2;
+}
+
+void Archer::EnemyAction(Unit *unit) {
+    unit->health -= attack;
+}
+
+void Archer::FriendlyAction(Unit *unit) {
+    unit->defense += attack;
 }

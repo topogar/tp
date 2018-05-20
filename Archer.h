@@ -11,8 +11,8 @@ public:
     const static int cost = ARCHER_COST;
     Archer();
     ~Archer() {};
-    void FriendlyAction(Unit* unit) {};
-    void EnemyAction(Unit* unit) {};
+    void FriendlyAction(Unit* unit);
+    void EnemyAction(Unit* unit);
 };
 
 

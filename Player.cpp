@@ -8,9 +8,14 @@ int Player::ShowFraction() {
 
 void Player::SetFraction() {
     cout << "Choose your fraction:\n1. Humans\n2. Undead\n";
+
     cin >> fraction_ID;
+    while (fraction_ID <= 0 || fraction_ID > 2) {
+        cout << "Please, choose correct number\nChoose your fraction:\n1. Humans\n2. Undead\n";
+        cin >> fraction_ID;
+    }
     if (fraction_ID == 1) factory = new HumanArmyFactory();
-    if (fraction_ID == 2) factory = new HumanArmyFactory(); //фабрика UndeadArmyFactory будет здесь в будущем, т.к. пока не реализована
+    if (fraction_ID == 2) factory = new UndeadArmyFactory(); //фабрика UndeadArmyFactory будет здесь в будущем, т.к. пока не реализована
 }
 
 void Player::Initialize() {

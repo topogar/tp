@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/home/egor/CLionProjects/tp1/AddFirstUnit.cpp
+AddFirstUnit.h
+/home/egor/CLionProjects/tp1/AddFirstUnit.h
+
+/home/egor/CLionProjects/tp1/AddFirstUnit.h
+defines.h
+/home/egor/CLionProjects/tp1/defines.h
+ArmyFactory.h
+/home/egor/CLionProjects/tp1/ArmyFactory.h
+Army.h
+/home/egor/CLionProjects/tp1/Army.h
+
 /home/egor/CLionProjects/tp1/Archer.cpp
 Archer.h
 /home/egor/CLionProjects/tp1/Archer.h
@@ -52,6 +64,16 @@ Decorator.h
 Player.h
 /home/egor/CLionProjects/tp1/Player.h
 
+/home/egor/CLionProjects/tp1/Game.cpp
+Game.h
+/home/egor/CLionProjects/tp1/Game.h
+
+/home/egor/CLionProjects/tp1/Game.h
+Player.h
+/home/egor/CLionProjects/tp1/Player.h
+Judje.h
+/home/egor/CLionProjects/tp1/Judje.h
+
 /home/egor/CLionProjects/tp1/HumanArmyFactory.cpp
 HumanArmyFactory.h
 /home/egor/CLionProjects/tp1/HumanArmyFactory.h
@@ -65,6 +87,12 @@ Knight.h
 /home/egor/CLionProjects/tp1/Knight.h
 Wizard.h
 /home/egor/CLionProjects/tp1/Wizard.h
+
+/home/egor/CLionProjects/tp1/Judje.cpp
+Judje.h
+/home/egor/CLionProjects/tp1/Judje.h
+
+/home/egor/CLionProjects/tp1/Judje.h
 
 /home/egor/CLionProjects/tp1/Knight.cpp
 Knight.h
@@ -99,6 +127,8 @@ UndeadArmyFactory.h
 /home/egor/CLionProjects/tp1/UndeadArmyFactory.h
 Army.h
 /home/egor/CLionProjects/tp1/Army.h
+AddFirstUnit.h
+/home/egor/CLionProjects/tp1/AddFirstUnit.h
 
 /home/egor/CLionProjects/tp1/Player.cpp
 Player.h
@@ -118,6 +148,36 @@ Unit.h
 defines.h
 /home/egor/CLionProjects/tp1/defines.h
 
+/home/egor/CLionProjects/tp1/UnArcher.cpp
+UnArcher.h
+/home/egor/CLionProjects/tp1/UnArcher.h
+
+/home/egor/CLionProjects/tp1/UnArcher.h
+Ranger.h
+/home/egor/CLionProjects/tp1/Ranger.h
+defines.h
+/home/egor/CLionProjects/tp1/defines.h
+
+/home/egor/CLionProjects/tp1/UnKnight.cpp
+UnKnight.h
+/home/egor/CLionProjects/tp1/UnKnight.h
+
+/home/egor/CLionProjects/tp1/UnKnight.h
+defines.h
+/home/egor/CLionProjects/tp1/defines.h
+Warrior.h
+/home/egor/CLionProjects/tp1/Warrior.h
+
+/home/egor/CLionProjects/tp1/UnWizard.cpp
+UnWizard.h
+/home/egor/CLionProjects/tp1/UnWizard.h
+
+/home/egor/CLionProjects/tp1/UnWizard.h
+defines.h
+/home/egor/CLionProjects/tp1/defines.h
+Mage.h
+/home/egor/CLionProjects/tp1/Mage.h
+
 /home/egor/CLionProjects/tp1/UndeadArmyFactory.cpp
 UndeadArmyFactory.h
 /home/egor/CLionProjects/tp1/UndeadArmyFactory.h
@@ -125,6 +185,12 @@ UndeadArmyFactory.h
 /home/egor/CLionProjects/tp1/UndeadArmyFactory.h
 ArmyFactory.h
 /home/egor/CLionProjects/tp1/ArmyFactory.h
+UnArcher.h
+/home/egor/CLionProjects/tp1/UnArcher.h
+UnKnight.h
+/home/egor/CLionProjects/tp1/UnKnight.h
+UnWizard.h
+/home/egor/CLionProjects/tp1/UnWizard.h
 
 /home/egor/CLionProjects/tp1/Unit.cpp
 Unit.h
@@ -167,4 +233,6 @@ defines.h
 /home/egor/CLionProjects/tp1/main.cpp
 Player.h
 /home/egor/CLionProjects/tp1/Player.h
+Game.h
+/home/egor/CLionProjects/tp1/Game.h
 

@@ -14,6 +14,9 @@ public:
     int ShowFraction();
     void SetFraction();
     void Initialize();
+    Army* RetArm() {
+        return Player_Army;
+    }
 };
 
 
